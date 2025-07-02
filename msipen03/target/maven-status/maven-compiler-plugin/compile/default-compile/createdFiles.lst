@@ -1,0 +1,12 @@
+com\cl\msipen03\service\RemittanceOperationsStatusService.class
+com\cl\msipen03\config\DataBaseConfig.class
+com\cl\msipen03\MSIPEN03Application.class
+com\cl\msipen03\repository\DatabaseRepository.class
+META-INF\spring-configuration-metadata.json
+com\cl\msipen03\controllers\RemittanceOperationsStatusController.class
+com\cl\msipen03\entities\RemittanceOperationRequest.class
+com\cl\msipen03\mapper\RemittanceOperationsListMapper.class
+com\cl\msipen03\exceptions\InternalMSIPEN03Exception.class
+com\cl\msipen03\entities\RemittanceOperationsPaginationResponse$RemittanceOperationsPaginationResponseBuilder.class
+com\cl\msipen03\config\SecurityConfig.class
+com\cl\msipen03\entities\RemittanceOperationsPaginationResponse.class
